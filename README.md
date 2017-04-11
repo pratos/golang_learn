@@ -5,7 +5,8 @@
 
 __Installing Go in Linux:__
 - Download the binary (_At the time of writing version is 1.8.1_): `wget https://storage.googleapis.com/golang/go1.8.1.linux-amd64.tar.gz`
-- 
+
+***
 
 __Sources:__
 1. [GoLang website](https://golang.org/)
@@ -19,5 +20,4 @@ __Sources:__
 8. [Data Science Tools and libraries](https://github.com/gopherdata/resources/tree/master/tooling)
 9. [Go Projects](https://github.com/golang/go/wiki/Projects)
 10. [Go Commands](https://golang.org/cmd/go/)
-
-
+***
