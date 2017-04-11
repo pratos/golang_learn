@@ -19,6 +19,5 @@ __Sources:__
 8. [Data Science Tools and libraries](https://github.com/gopherdata/resources/tree/master/tooling)
 9. [Go Projects](https://github.com/golang/go/wiki/Projects)
 10. [Go Commands](https://golang.org/cmd/go/)
-11. 
 
 
